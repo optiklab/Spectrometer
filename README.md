@@ -9,6 +9,8 @@ a new application for your own needs.
 It was made for Laser Light analysis, that is why it needs to be connected with right hardware, which works via standard web camera interface,
 but have some differences in light perception.
 
+See screen shots on [Wiki page](https://github.com/optiklab/Spectrometer/wiki/Spectrometer-home)
+
 ## LICENSE
 This software is published under [LGPL v3](http://www.gnu.org/licenses/lgpl.txt) license because it depends on the LGPL build of the AForge.NET library.
 For more information please take a look in license [file](https://github.com/optiklab/Spectrometer/blob/master/LICENSE.md)
