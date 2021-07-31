@@ -6,12 +6,13 @@ It is an example of very simple application for light analysis. It cannot be use
 but it still works with any USB camera and you can do fun things by simply compile and run it. Also you can use my code to create
 a new application for your own needs.
 
+
 It was made for Laser Light analysis, that is why it needs to be connected with right hardware, which works via standard web camera interface,
 but have some differences in light perception.
 
-![1](https://optiklab.github.io/blog/img/usb1.jpg)
+![1](https://optiklab.github.io/img/usb1.jpg)
 
-![2](https://optiklab.github.io/blog/img/usb2.jpg)
+![2](https://optiklab.github.io/img/usb2.jpg)
 
 ## LICENSE
 This software is published under [LGPL v3](http://www.gnu.org/licenses/lgpl.txt) license because it depends on the LGPL build of the AForge.NET library.
